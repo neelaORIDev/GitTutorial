@@ -29,9 +29,9 @@ public class Calculator {
 
 	@Override
 	public String toString() {
-		return "Calculator [x=" + x + ", y=" + y + ", add=" + add()
-				+ ", substract=" + substract() + ", multiply=" + multiply()
-				+ ", division=" + division() + "]";
+		return "Calculator [x:" + x + ", y:" + y + ", add:" + add()
+				+ ", substract:" + substract() + ", multiply:" + multiply()
+				+ ", division:" + division() + "]";
 	}
 	
 	
