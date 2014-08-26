@@ -2,9 +2,12 @@ package com.ori.git.tutorial;
 
 public class Calculator {
 
+	// Number 1
 	private int x;
+	// Number 2
 	private int y;
 	
+	// Default Constructor
 	public Calculator(int a, int b){
 		
 		this.x = a;
