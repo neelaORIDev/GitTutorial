@@ -1,5 +1,9 @@
 package com.ori.git.tutorial;
-
+/*************************************
+ * Calculator.java
+ * Author: S.Neelakandan
+ * 
+ ************************************ /
 public class Calculator {
 
 	private int x;
